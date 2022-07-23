@@ -1,0 +1,14 @@
+[
+  {
+    "uuid": "0b5a9917-668d-4e0f-929e-30a939bd7434",
+    "name": "Kampfpunklesbe",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "88b4fb8b-1f82-4102-8c00-d16c7e53eba5",
+    "name": "bonifer",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
